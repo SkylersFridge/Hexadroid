@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300\\\\u0009\\u0009</integer>
+    <bool name="ga_autoActivityTracking">true\\\\u0009\\u0009</bool>
+    <screenName name="com.roblox.client.ActivityNativeMain">RobloxMobileAndroid ActivityNativeMain\\\\u0009\\u0009</screenName>
+    <screenName name="com.roblox.client.ActivityNativeSidebar">RobloxMobileAndroid ActivityNativeSidebar\\\\u0009\\u0009</screenName>
+    <screenName name="com.roblox.client.ActivityWebView">RobloxMobileAndroid ActivityWebView\\\\u0009\\u0009</screenName>
+    <screenName name="com.roblox.client.ActivityFragmentTest">RobloxMobileAndroid ActivityFragmentTest\\\\u0009\\u0009</screenName>
+    <screenName name="com.roblox.client.ActivityGlView">RobloxMobileAndroid ActivityGlView\\\\u0009\\u0009</screenName>
+    <screenName name="com.roblox.client.ActivityCurlTest">RobloxMobileAndroid ActivityCurlTest\\\\u0009\\u0009</screenName>
+    <string name="ga_trackingId">UA-51088233-1\\\\u0009\\u0009</string>
+    <bool name="ga_reportUncaughtExceptions">true\\\\u0009\\u0009</bool>
+</resources>

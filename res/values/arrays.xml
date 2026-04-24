@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EnvironmentArray">
+        <item>hexagon.pw/</item>
+        <item>www.gametest1.robloxlabs.com/</item>
+        <item>www.gametest2.robloxlabs.com/</item>
+        <item>www.gametest3.robloxlabs.com/</item>
+        <item>www.gametest4.robloxlabs.com/</item>
+        <item>www.gametest5.robloxlabs.com/</item>
+        <item>www.sitetest1.robloxlabs.com/</item>
+        <item>www.sitetest2.robloxlabs.com/</item>
+        <item>www.sitetest3.robloxlabs.com/</item>
+        <item>www.sitetest4.robloxlabs.com/</item>
+        <item>www.allen.sitetest3.robloxlabs.com/</item>
+        <item>www.anthony.sitetest3.robloxlabs.com/</item>
+        <item>www.guru.sitetest3.robloxlabs.com/</item>
+        <item>www.allen.sitetest3.robloxlabs.com/</item>
+        <item>www.rosemary.sitetest3.robloxlabs.com/</item>
+        <item>www.sairam.sitetest3.robloxlabs.com/</item>
+        <item>www.shannon.sitetest3.robloxlabs.com/</item>
+        <item>www.vlad.sitetest3.robloxlabs.com/</item>
+    </string-array>
+    <string-array name="EnvironmentArrayMobile">
+        <item>hexagon.pw/</item>
+        <item>m.gametest1.robloxlabs.com/</item>
+        <item>m.gametest2.robloxlabs.com/</item>
+        <item>m.gametest3.robloxlabs.com/</item>
+        <item>m.gametest4.robloxlabs.com/</item>
+        <item>m.gametest5.robloxlabs.com/</item>
+        <item>m.sitetest1.robloxlabs.com/</item>
+        <item>m.sitetest2.robloxlabs.com/</item>
+        <item>m.sitetest3.robloxlabs.com/</item>
+        <item>m.sitetest4.robloxlabs.com/</item>
+        <item>m.allen.sitetest3.robloxlabs.com/</item>
+        <item>m.anthony.sitetest3.robloxlabs.com/</item>
+        <item>m.guru.sitetest3.robloxlabs.com/</item>
+        <item>m.allen.sitetest3.robloxlabs.com/</item>
+        <item>m.rosemary.sitetest3.robloxlabs.com/</item>
+        <item>m.sairam.sitetest3.robloxlabs.com/</item>
+        <item>m.shannon.sitetest3.robloxlabs.com/</item>
+        <item>m.vlad.sitetest3.robloxlabs.com/</item>
+    </string-array>
+    <string-array name="GenderArray">
+        <item>Choose one</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

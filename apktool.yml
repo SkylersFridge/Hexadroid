@@ -1,0 +1,67 @@
+version: 2.9.3
+apkFileName: hepta.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 25
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 32
+  versionName: 1.0.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  index.html: 8
+  constant-values.html: 8
+  stylesheet.css: 8
+  index-all.html: 8
+  deprecated-list.html: 8
+  allclasses-noframe.html: 8
+  help-doc.html: 8
+  package-list: 0
+  overview-tree.html: 8
+  allclasses-frame.html: 8
+  com/mobileapptracker/FacebookReceiver.html: 8
+  com/mobileapptracker/package-frame.html: 8
+  com/mobileapptracker/MATResponse.html: 8
+  com/mobileapptracker/MATEventQueue.Dump.html: 8
+  com/mobileapptracker/Parameters.html: 8
+  com/mobileapptracker/package-use.html: 8
+  com/mobileapptracker/package-tree.html: 8
+  com/mobileapptracker/Tracker.html: 8
+  com/mobileapptracker/package-summary.html: 8
+  com/mobileapptracker/MATProvider.html: 8
+  com/mobileapptracker/TimeIgnoringComparator.html: 8
+  com/mobileapptracker/MATConstants.html: 8
+  com/mobileapptracker/MobileAppTracker.html: 8
+  com/mobileapptracker/MATEventQueue.Add.html: 8
+  com/mobileapptracker/UrlRequester.html: 8
+  com/mobileapptracker/Tracker.ObservableChanged.html: 8
+  com/mobileapptracker/MATTestRequest.html: 8
+  com/mobileapptracker/MATEventQueue.html: 8
+  com/mobileapptracker/MATEventItem.html: 8
+  com/mobileapptracker/Encryption.html: 8
+  com/mobileapptracker/class-use/MobileAppTracker.html: 8
+  index-files/index-1.html: 8
+  index-files/index-6.html: 8
+  index-files/index-4.html: 8
+  index-files/index-3.html: 8
+  index-files/index-5.html: 8
+  index-files/index-2.html: 8
+  resources/titlebar_end.gif: 0
+  resources/inherit.gif: 0
+  resources/tab.gif: 0
+  resources/background.gif: 0
+  resources/titlebar.gif: 0
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- assets/fingerprint.txt
